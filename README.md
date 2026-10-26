@@ -1,8 +1,12 @@
 # Topside
 
-A Dynamic Island for the Mac. At rest it is a small black notch-shaped pill at the top center of the
-screen. Move the cursor to it and it grows into a panel. It also pops out by itself for volume and
-brightness changes, plugging in the charger, and while music is playing.
+A Dynamic Island for the Mac. Rests as a notch-shaped pill at the top of your screen and grows into a
+control panel when you hover. Real volume and brightness sliders, Music and Spotify controls, battery, and
+pop-outs for volume, brightness and the charger.
+
+<p align="center">
+  <img src="docs/screenshot.png" alt="Topside expanded on a MacBook Air M1" width="640">
+</p>
 
 ## Run it
 
