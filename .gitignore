@@ -1,0 +1,4 @@
+.build/
+Topside.app/
+.DS_Store
+*.zip
